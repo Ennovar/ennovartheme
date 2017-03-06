@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "ennovartheme"
-  spec.version       = "0.1.2"
+  spec.version       = "0.1.3"
   spec.authors       = ["Austin M Crane"]
   spec.email         = ["austin.crane@ennovar.wichita.edu"]
 
